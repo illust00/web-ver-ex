@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.github.illust00</groupId>
 	<artifactId>web-ver-ex</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>web-ver-ex</name>
 	<description>version managment test</description>
@@ -35,9 +35,9 @@
 
 	<scm>
 		<url>https://github.com/illust00/web-ver-ex</url>
-		<connection>scm:git:https://github.com/illust00/web-ver-ex.git</connection>
-		<developerConnection>scm:git:https://github.com/illust00/web-ver-ex.git</developerConnection>
-		<tag>0.0.3</tag>
+		<connection>scm:git:git@github.com:illust00/web-ver-ex.git</connection>
+		<developerConnection>scm:git:git@github.com:illust00/web-ver-ex.git</developerConnection>
+		<tag>@{project.version}</tag>
 	</scm>
 
 	<dependencies>
